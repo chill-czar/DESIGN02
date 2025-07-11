@@ -24,7 +24,7 @@ body {
 .logo{
     width: 40px;
     height: 40px;
-    background-color: brown;
+    /* background-color: brown; */
     background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAASFBMVEUAAAD///8BAQHv7+8vLy/a2tpiYmIVFRUFBQX8/PwJCQkNDQ0tLS0yMjIfHx/y8vIoKChqampbW1vj4+PKysrT09N+fn5AQECE5KsKAAABhElEQVRoge2YC26DMAxAE8OGE6BldJ/733R4zSoGmFomsHXyq1ShNOSRyHZCnTMMwzAMw3hU4HYxMGla6a2Uje9nxhr66Cz0/ADpOzVw6CeSpgCCAaiPyoNNe6Xskg3LlgM1BqLwwRPhKTVUPrXMUS9XkQYYSzhMYpKHlyg1UwnGl75/XqQHUfWRzAT4IhmVjgXJd11eKsPK6jWV0Fi47MDhk2m59sAk+0miMhtnkhOf8bXLFcInH87LjjOFcRZJrNgtPsSYK+PXCmS2ZPz9Um+SiQSG6GLCKwBivmTkYjhCLslKukGdKYRpFGZjRNQe6+czYdeEfshTVnbBJCqJv9ztWlfalL9JXgWd4zYJl+Q/Mx637YyBK1hjYPNZWDAT7RaPhWylrhLdPJy7SNZpowTf5A61JHZyh34m8V0Yv/7rSKSTYP1BFpFHG11x2Iiwa9quvE8DtUpCr27o6IAgAFF5gqzd9UbRI6pfsQ3DMAzjj3HAhob/RkJ/He6uOUyyO0dIPgEyeRCsSosoFgAAAABJRU5ErkJggg==");
     background-position: center;
     background-size: cover;
@@ -48,7 +48,7 @@ body {
 .hero{
     width: 100%;
     height: calc(100% - 60px);
-    background-color: red;
+    /* background-color: red; */
     background-image: url("https://alphacodein.github.io/KODOR/task7/bg.png");
     background-position: center;
     background-size: cover;
@@ -259,5 +259,5 @@ details {
 }
 .footer-right img {
     width: 100%;
-    
+
 }
